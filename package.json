@@ -1,0 +1,16 @@
+{
+  "name": "pa1_sakshi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot.js",
+  "scripts": {
+    "start":"node q10.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script1": "node q10.js",
+    "script2": "node q2.js",
+    "script3": "node q3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
